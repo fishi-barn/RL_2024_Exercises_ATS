@@ -4,7 +4,7 @@ import mdp
 import environment
 import util
 import optparse
-# Note: imported numpy for std dev calculation
+# Note: imported numpy for mean and SD computation
 import numpy as np
 
 from gridworldClass import Gridworld
